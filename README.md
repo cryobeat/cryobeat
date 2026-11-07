@@ -1,32 +1,35 @@
 <p align="center">
-  <a href="https://cryo-uhh.dev"><img src="https://cryo-uhh.dev/og.png" alt="cryo" width="100%"></a>
+  <a href="https://cryo-uhh.dev"><img src="https://cryo-uhh.dev/og.png" alt="Cryo — web designer and developer" width="100%"></a>
 </p>
 
-<p align="center">I build modpacks, websites, and a Discord bot, mostly from a dark room.</p>
+# Cryo
 
-## The set
+Web designer and developer. I design and build websites and web apps, then keep them running after launch.
+Work comes to me directly or through the studio [Olympos Web](https://olymposweb.com).
 
-**1 · [Modpack](https://cryo-uhh.dev/projects/#modpack)**<br>
-A fantasy RPG modpack for NeoForge 1.21.1, made with a team I lead. Still in rehearsal. Tickets go on sale at release.
+**[cryo-uhh.dev](https://cryo-uhh.dev)** · **[cryo@cryo-uhh.dev](mailto:cryo@cryo-uhh.dev)**
 
-**2 · [Web design](https://cryo-uhh.dev/projects/#webdesign)**<br>
-[This site](https://cryo-uhh.dev), a portfolio that counts itself in. Also the website for the marketing agency I work at, and one for a maker studio.
+## Selected work
 
-**3 · [hd2queuebot](https://cryo-uhh.dev/projects/#bot)**<br>
-A Discord moderation bot for a large community, which started as a play-with-viewers queue for Helldivers 2. The first beta is out, and public hosting is next.<br>
-<sub>discord.js · Fastify · Prisma · Postgres · Next.js · Docker</sub>
+| Project | What it is | Role | Stack |
+|---|---|---|---|
+| [Olympos Web](https://olymposweb.com) | Studio site: 104 ready-made templates across 26 business types, pricing, custom pages | Design, build, upkeep | HTML · CSS · JS · GSAP · ScrollTrigger · Lenis · Cloudflare |
+| [Olympos Tanıtım](https://olympostanitim.com) | Marketing and organisation agency site: working since 2003; 35 services in six groups and a field archive from 2003–2011 | Design and build | HTML · CSS · JS · GSAP · ScrollTrigger · Lenis |
+| [EnkaTech #6985](https://www.enkatech6985.com) | FRC team site: projects, education content, season archive, Turkish and English | Design, build, upkeep | HTML · CSS · JS · GSAP · ScrollTrigger · Lenis · Cloudflare |
+| [EnkaTech sponsors](https://sponsor.enkatech6985.com) | 2026–27 sponsorship site: route, results, line-by-line budget, four packages | Design, build, upkeep | HTML · CSS · JS · GSAP · ScrollTrigger · Lenis |
+| [EnkaTech Takım](https://takim.enkatech6985.com) | Team web app: announcements, chat, workshop inventory, tasks | Design, build, upkeep | Flutter (web) |
 
-**Encore**<br>
-Other things I've made. More songs coming.
+## What I do
 
-## Right now
+- **Design and build** — from the first brief to a live site: structure, design in Figma, hand-built pages, launch.
+- **Design only** — Figma files your own developer can build from, with a handoff call.
+- **Upkeep after launch** — hosting, updates, content changes and fixes, monthly or per request.
+- **Web apps** — logged-in tools with accounts and screens people use every day.
 
-A lot of schoolwork and the Discord bot, plus web designs if customers want.
+## Side projects
 
-## Ah… say hi?
+- **Cryonic** — an always-on agent workspace for Windows, where the app, not the model, decides what each agent may do. In development. <sub>Rust · Tauri</sub>
+- **hd2queuebot** — a Discord moderation bot for a large community that started as a play-with-viewers queue. Beta. <sub>discord.js · Fastify · Prisma · Postgres · Next.js · Docker</sub>
+- **RPG modpack** — a fantasy RPG modpack for NeoForge 1.21.1, made with a team I lead. In progress.
 
-For work, questions, or a spot on the modpack's guest list: **[cryo@cryo-uhh.dev](mailto:cryo@cryo-uhh.dev)**
-
-[The set](https://cryo-uhh.dev) · [Projects](https://cryo-uhh.dev/projects/) · [Who I am](https://cryo-uhh.dev/about/)
-
-<sub>That's the set. Thanks for coming.</sub>
+<sub>Based in İzmit. Anonymous on purpose: the work is the introduction.</sub>
