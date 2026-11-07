@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://cryo-uhh.dev"><img src="https://cryo-uhh.dev/og.png" alt="Cryo — web designer and developer" width="100%"></a>
+  <a href="https://cryo-uhh.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.png">
+      <img src="assets/cover-light.png" alt="Cryo — websites and web apps, designed, built and kept running" width="100%">
+    </picture>
+  </a>
 </p>
 
 # Cryo
