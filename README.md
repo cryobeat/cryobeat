@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://cryo-uhh.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cryo-uhh.dev/assets/cover-dark.png">
-      <img src="https://cryo-uhh.dev/assets/cover-light.png" alt="Cryo — websites and web apps, designed, built and kept running" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="cover-dark.png">
+      <img src="cover-light.png" alt="Cryo — websites and web apps, designed, built and kept running" width="100%">
     </picture>
   </a>
 </p>
